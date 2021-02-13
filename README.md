@@ -1,4 +1,4 @@
-🔭 I am currently working with test automation and putting in practice some regressive test methodologies.
+ I am currently working with test automation and putting in practice some regressive test methodologies.
 
 ![Nathan Ayres's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAyres&show_icons=true&theme=radical)
 
